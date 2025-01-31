@@ -1,6 +1,6 @@
 выгруженное приложение в Vercel:
 
-https://katatodo-neschetnyi-alexanders-projects-2d4d6057.vercel.app
+https://katatodo-two.vercel.app/
 
 
 
